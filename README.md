@@ -9,7 +9,7 @@ Iterations by:
 J-D from JD Industries
 
 
-Iterations from openDog V2.0 : efef
+Iterations from openDog V2.0 :
 
 Aluminum / 3D Printed holder for all Motors.
 
