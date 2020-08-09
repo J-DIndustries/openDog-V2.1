@@ -1,6 +1,6 @@
 # openDog-V2.1
 
-A iteration of Open Dog V2.0 from XRobots (XRobots.co.uk)
+A iteration of openDog V2.0 from XRobots (XRobots.co.uk)
 
 Original Design and Construction:
 James Bruton from XRobots.co.uk
@@ -9,7 +9,7 @@ Iterations by:
 J-D from JD Industries
 
 
-Iterations from Open Dog V2.0 :
+Iterations from openDog V2.0 :
 
 Aluminum / 3D Printed holder for all Motors.
 
@@ -37,6 +37,6 @@ Keep as much as possible from the original design
 
 Note:
 
-All Modifications are untested!!
+All modifications are untested!!
 
-All  Modified Parts are Red in the CAD Files. Grey and Yellow Parts are Parts from Open Dog V2.0.
+All modified parts are Red in the CAD-Files. Grey and yellow parts are parts from OpenDog V2.0.
