@@ -6,7 +6,7 @@ Original Design and Construction:
 James Bruton from XRobots.co.uk
 
 Iterations by:
-J-D from JDIndustries
+J-D from JD Industries
 
 
 Iterations from Open Dog V2.0 :
