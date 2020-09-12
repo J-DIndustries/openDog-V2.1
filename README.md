@@ -17,7 +17,7 @@ Reinforced Holding for the Rods on the main gears, to further reducing of belt s
 
 Forced cooling for all Motors via Fans (Optional)
 
-Higher gear reductions for the hips and legs (Hip = 8:1, legs = 10:1)
+Higher gear reductions for the hips and legs (Hip = 8:1, legs = 25:1)
 
 
 All Modifications are made with the following limitations for the design:
